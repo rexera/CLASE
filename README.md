@@ -113,5 +113,8 @@ We acknowledge the following resources used in our linguistic feature extraction
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
+## Acknowledgements
+
+This work was supported by Natural Language Processing Lab at Tsinghua University (TsinghuaNLP).
