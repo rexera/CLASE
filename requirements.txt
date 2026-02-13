@@ -1,0 +1,7 @@
+openai
+numpy
+scikit-learn
+tqdm
+python-dotenv
+jieba
+nltk
