@@ -1,4 +1,5 @@
 # CLASE: A Hybrid Method for Chinese Legalese Stylistic Evaluation
+[![arXiv](https://img.shields.io/badge/arXiv-2602.12639-b31b1b.svg)](https://arxiv.org/abs/2602.12639)
 
 **CLASE** (**C**hinese **L**eg**A**lese **S**tylistic **E**valuation) is a hybrid evaluation framework designed to assess the stylistic fidelity of legal text generation. It combines objective linguistic feature analysis with experience-guided LLM evaluation to providing a transparent, reference-free, and interpretable assessment.
 
