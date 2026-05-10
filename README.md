@@ -1,5 +1,5 @@
 # CLASE: A Hybrid Method for Chinese Legalese Stylistic Evaluation
-[![arXiv](https://img.shields.io/badge/arXiv-2602.12639-b31b1b.svg)](https://arxiv.org/abs/2602.12639)
+[![DOI](https://img.shields.io/badge/doi-10.63317/2xrbbj7oaghv-FAB70C?logo=doi&logoColor=white)](https://doi.org/10.63317/2xrbbj7oaghv)
 
 **CLASE** (**C**hinese **L**eg**A**lese **S**tylistic **E**valuation) is a hybrid evaluation framework designed to assess the stylistic fidelity of legal text generation. It combines objective linguistic feature analysis with experience-guided LLM evaluation to providing a transparent, reference-free, and interpretable assessment.
 
@@ -90,15 +90,20 @@ python subjective_scoring.py
 
 ## Citation
 
-If you use CLASE in your research, please cite our LREC 2026 paper (full bibtex is pending):
+If you use CLASE in your research, please cite our LREC 2026 paper:
 
 ```bibtex
-@inproceedings{ma2026clase,
-  title={CLASE: A Hybrid Method for Chinese Legalese Stylistic Evaluation},
-  author={Ma, Yiran Rex and Ye, Yuxiao and Xie, Huiyuan},
-  booktitle={Proceedings of the 15th Biennial Language Resources and Evaluation Conference (LREC 2026)},
-  year={2026}
-}
+@inproceedings{ma-etal-2026-clase,
+  title = {CLASE: A Hybrid Method for Chinese Legalese Stylistic Evaluation},
+  author = {Ma, Yiran Rex and Ye, Yuxiao and Xie, Huiyuan},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {642--653},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/2xrbbj7oaghv}
 ```
 
 ## Credits
