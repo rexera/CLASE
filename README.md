@@ -96,7 +96,7 @@ If you use CLASE in your research, please cite our LREC 2026 paper:
 @inproceedings{ma-etal-2026-clase,
   title = {{CLASE}: A Hybrid Method for {Chinese} Legalese Stylistic Evaluation},
   author = {Ma, Yiran Rex and Ye, Yuxiao and Xie, Huiyuan},
-  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference ({LREC} 2026)},
   month = {May},
   year = {2026},
   pages = {642--653},
