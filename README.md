@@ -104,6 +104,7 @@ If you use CLASE in your research, please cite our LREC 2026 paper:
   publisher = {European Language Resources Association (ELRA)},
   editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
   doi = {10.63317/2xrbbj7oaghv}
+}
 ```
 
 ## Credits
